@@ -1,0 +1,22 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 5px;
+    left: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background: linear-gradient(339deg, rgba(139,100,1,1) 8%, rgba(207,135,0,1) 35%, rgba(174,152,0,1) 50%, rgba(82,177,196,1) 65%);
+}
+#the_link{
+    color: rgb(82, 177, 196);
+    left: 5px;
+    top: 5px;
+    position: fixed;
+}
+button{
+    transition: 0.25s;
+    color: rgb(255, 215, 167);
+}
+button:hover{
+    border-radius: 5px;
+}
